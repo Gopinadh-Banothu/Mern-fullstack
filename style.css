@@ -1,0 +1,14 @@
+body{
+    color:rgb(16, 17, 17);
+    font-size:24px;
+    margin:10px;
+    padding:5px;
+    background-image:url("pexels-jplenio-1103970.jpg");
+}
+div{
+    border:50px;
+    border-radius:20px;
+}
+body {
+    border: 1px; solid #000000;
+}
